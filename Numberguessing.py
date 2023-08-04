@@ -14,9 +14,9 @@ for i in range(10):
         if count == 10:        
             print("YOU loose!")
         else:
-            print("go uper!")
+            print("go higher!")
     if user_number > PC_number :
         if count == 10:        
             print("YOU loose!")
         else:
-            print("go downer!")
+            print("go lower!")
