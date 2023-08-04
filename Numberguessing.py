@@ -12,11 +12,11 @@ for i in range(10):
         break
     if user_number < PC_number :
         if count == 10:        
-            print("YOU loose!")
+            print("YOU LOSE!")
         else:
             print("go higher!")
     if user_number > PC_number :
         if count == 10:        
-            print("YOU loose!")
+            print("YOU LOSE!")
         else:
             print("go lower!")
